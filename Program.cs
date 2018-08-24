@@ -9,6 +9,7 @@ namespace Actividad001
             Console.WriteLine("Hello World!");
             Console.WriteLine("Esto es un programa  de C# corriendo en Debian");
             Console.WriteLine("Hola otra vez");
+            Console.WriteLine("hola de nuevo");
             
         }
     }
